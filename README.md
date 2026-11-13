@@ -13,3 +13,7 @@ This repository contains my Data Engineering Bootcamp assignments.
 ## About
 
 This project is created for learning Data Engineering fundamentals.
+
+## Development
+
+This section contains development updates from the dev branch.
